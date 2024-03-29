@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldClassLibrary", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldConsoleApp", "HelloWorldConsoleApp\HelloWorldConsoleApp.csproj", "{22502F60-489A-414B-935E-7D6F87071747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParseTest", "TryParseTest\TryParseTest.csproj", "{318F7AAB-9CE4-47AD-92BE-E4E77BA9C3A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{2E6100D9-5600-4552-B2ED-AFAC2AAC9AE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{22502F60-489A-414B-935E-7D6F87071747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22502F60-489A-414B-935E-7D6F87071747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22502F60-489A-414B-935E-7D6F87071747}.Release|Any CPU.Build.0 = Release|Any CPU
-		{318F7AAB-9CE4-47AD-92BE-E4E77BA9C3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{318F7AAB-9CE4-47AD-92BE-E4E77BA9C3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{318F7AAB-9CE4-47AD-92BE-E4E77BA9C3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{318F7AAB-9CE4-47AD-92BE-E4E77BA9C3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6100D9-5600-4552-B2ED-AFAC2AAC9AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6100D9-5600-4552-B2ED-AFAC2AAC9AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6100D9-5600-4552-B2ED-AFAC2AAC9AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6100D9-5600-4552-B2ED-AFAC2AAC9AE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
